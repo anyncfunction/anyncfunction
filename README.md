@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/肥鱼不是胖猫">
-    <img src="https://komarev.com/ghpvc/?username=肥鱼不是胖猫&label=访客数&style=flat-square&color=26c6da" alt="访客数" />
+    <img src="https://komarev.com/ghpvc/?username=asyncfunction&label=访客数&style=flat-square&color=26c6da" alt="访客数" />
   </a>
   <img src="https://img.shields.io/badge/年龄-13岁-blue?style=flat-square" alt="年龄" />
   <img src="https://img.shields.io/badge/性别-男-red?style=flat-square" alt="性别" />
@@ -45,8 +45,8 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=肥鱼不是胖猫&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="统计" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=肥鱼不是胖猫&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asyncfunction&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncfunction&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="语言" />
 </p>
 
 ---
