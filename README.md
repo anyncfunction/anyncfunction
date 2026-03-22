@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feiyubishangmao&label=Profile+Views&style=for-the-badge&color=00D9FF" />
+  <img src="https://komarev.com/ghpvc/?username=anyncfunction&label=Profile+Views&style=for-the-badge&color=00D9FF" />
   <img src="https://img.shields.io/badge/年龄-13岁-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/性别-男-F43F5E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/状态-学习中-22C55E?style=for-the-badge" />
@@ -63,10 +63,10 @@ C++       ████████░░░░░░░░░░░░░ 40%
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feiyubishangmao&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyubishangmao&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anyncfunction&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyncfunction&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feiyubishangmao&theme=radical&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyncfunction&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 ---
