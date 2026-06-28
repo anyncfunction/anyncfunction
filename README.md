@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anyncfunction&label=Profile+Views&style=for-the-badge&color=00FFFF" />
-  <img src="https://img.shields.io/badge/年龄-13岁-FF6B6B?style=for-the-badge&logo=heart" />
+  <img src="https://img.shields.io/badge/年龄-12岁-FF6B6B?style=for-the-badge&logo=heart" />
   <img src="https://img.shields.io/badge/性别-男-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/身份-学生-FFE66D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/状态-学习中-95E1D3?style=for-the-badge" />
@@ -29,7 +29,7 @@
 ```
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
-║   🧑‍🎓 13岁中学生                                      ║
+║   🧑‍🎓 12岁中学生                                      ║
 ║   🖥️ 热爱编程与网页设计                                ║
 ║   🐍 Python / ⚡ C++ / 🎨 Web                         ║
 ║   🎯 目标：成为全能开发者                              ║
@@ -70,20 +70,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anyncfunction&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&stroke=6272A4" alt="streak" />
 </p>
 
----
-
-## 🏆 成就目标
-
-<p align="center">
-
-| ✅ 完成 | 🔒 未完成 |
-|:---:|:---:|
-| 0 | ⭐ 获得第一个 Star |
-| 0 | 🔀 提交第一次 PR |
-| 0 | 📝 100 次 Commit |
-| 0 | 🚀 拥有自己的开源项目 |
-
-</p>
 
 ---
 
